@@ -1,0 +1,191 @@
+body{
+  padding-top: 30px;
+  display: flex;
+  font-family: 'Roboto', sans-serif;
+}
+
+.phnimg{
+  margin-left: 28%;
+  margin-top: 50px;
+  height: 618px;
+  width: 454px;
+}
+
+.ronaldo{
+  position: absolute;
+  margin-left: 35.5%;
+  margin-top: 7.60%;
+  height: 433px;
+  width: 244px;
+}
+
+.formDiv{
+  padding: 10px 20px 0 20px;
+  margin-top: 70px;
+  margin-left: -35px;
+  display: inline-block;
+  height: 618px;
+  width: 349px;
+}
+
+.formdivOne{
+  border: 1px solid #ecbfbf;
+}
+
+.instafont{
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+  padding-top: 30px;
+  width: 200px;
+}
+
+.userInput{
+  border: 1px solid #ecbfbf;
+  width: 70%;
+  margin: auto;
+  margin-bottom: 5px;
+  display: block;
+  padding: 8px;
+  font-size: 12px;
+}
+
+.userPassword{
+  border: 1px solid #ecbfbf;
+  width: 70%;
+  margin: auto;
+  margin-bottom: 5px;
+  display: block;
+  padding: 8px;
+  font-size: 12px;
+}
+
+.loginBtn{
+  border-radius: 5px;
+  border: none;
+  width: 76%;
+  margin: auto;
+  display: block;
+  padding: 8px;
+  background-color: #B8DFD8;
+  color: #fff;
+  font-weight: 600;
+}
+
+.hrDesign{
+  margin: 20px auto;
+  text-align:center;
+  width:50%;
+}
+
+.or{
+  display:inline;
+}
+
+.empty1{
+  border-bottom:1px solid #ecbfbf;
+  width:60%;
+  height:0;
+  display:block;
+  position:relative;
+  margin-left:64%;
+  margin-bottom:-7%;
+}
+
+.empty2{
+  border-bottom:1px solid #ecbfbf;
+  width:60%;
+  height:0;
+  display:block;
+  position:relative;
+  margin-left:-23%;
+  margin-top: -6%;
+}
+
+.loginFB{
+  margin: 45px;
+  padding: 25px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.fbLogo{
+  padding-right: 5px;
+  width: 20px;
+  height: 20px;
+}
+
+.LIWFB{
+  font-weight: 800;
+  color:#3D84B8;
+  text-decoration: none;
+}
+
+.fPassword{
+  position: relative;
+  text-decoration: none;
+  color:#3D84B8;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.formdivTwo{
+  border: 1px solid #ecbfbf;
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+}
+
+span{
+  color: blueviolet;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.formdivThree{
+  text-align: center;
+  font-size: 15px;
+}
+
+.iosPlay{
+  padding: 10px;
+  background-color: #fff;
+  width: 140px;
+  height: 40px;
+}
+
+.gPlay{
+  background-color: #fff;
+  width: 160px;
+  height: 60px;
+}
+
+a{
+  text-decoration: none;
+  padding: 5px;
+}
+
+.footTags{
+  position: absolute;
+  margin-left: -640px;
+  margin-top: 790px;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.Lang{
+  position: absolute;
+  margin-left: -520px;
+  margin-top: 820px;
+  border: none;
+  font-size: 12px;
+}
+
+.footLast{
+  color: #8e8e8e;
+  position: absolute;
+  margin-left: -430px;
+  margin-top: 820px;
+  font-size: 12px;
+}
